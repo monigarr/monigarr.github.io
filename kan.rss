@@ -3,18 +3,6 @@
   <INFO>
     <NAME>Kanien’kéha Glossary</NAME>
     <INTRO>&lt;p&gt;Kanien’kéha Glossary.  We update this more often than most content in this website - based on what students request.&lt;/p&gt;</INTRO>
-    <INTROFORMAT>1</INTROFORMAT>
-    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
-    <DISPLAYFORMAT>dictionary</DISPLAYFORMAT>
-    <SHOWSPECIAL>1</SHOWSPECIAL>
-    <SHOWALPHABET>1</SHOWALPHABET>
-    <SHOWALL>1</SHOWALL>
-    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
-    <USEDYNALINK>1</USEDYNALINK>
-    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
-    <GLOBALGLOSSARY>1</GLOBALGLOSSARY>
-    <ENTBYPAGE>500</ENTBYPAGE>
-    <ENTRIES>
       <ITEM>
         <CONCEPT>speak</CONCEPT>
         <media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
@@ -620,6 +608,5 @@
           </ALIAS>
         </ALIASES>
       </ITEM>
-    </ENTRIES>
   </INFO>
 </GLOSSARY>
