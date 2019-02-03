@@ -15,7 +15,7 @@
     <GLOBALGLOSSARY>1</GLOBALGLOSSARY>
     <ENTBYPAGE>500</ENTBYPAGE>
     <ENTRIES>
-      <ENTRY>
+      <ITEM>
         <CONCEPT>speak</CONCEPT>
         <media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;Do you speak?               Sarónkha ken?&lt;/p&gt;
@@ -28,42 +28,42 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>speak</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>understand</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;Sa’nikonraién:tas ken?   - Do you understand?&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>understand</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>no</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;iah&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>answer</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>yes</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;hen&lt;/p&gt;
 &lt;p&gt;hen&#039;en&lt;/p&gt;</DEFINITION>
@@ -71,14 +71,14 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>answer</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>greeting</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;Tekononhwerá:ton  - I greet one of you.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;Tekeninonhwerá:tons  - I greet 2 of you.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -102,23 +102,23 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>greet</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>Mohawk Language</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p class=&quot;_19s-&quot; style=&quot;color: #1d2129; font-size: 20px; font-weight: normal; margin: 0px; padding: 0px; line-height: 24px; font-family: Helvetica, Arial, sans-serif; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #e9ebee;&quot;&gt;&lt;span style=&quot;color: inherit; text-decoration: underline; font-family: inherit;&quot;&gt;Kanien’kéha   - Mohawk Language&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>Mohawk People</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span&gt;I am a Mohawk person  - &lt;span&gt;Kanien&#039;kehà:ka na&#039;tia&#039;tò:ten&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;Kanien&#039;kehá:ka - People of the flint&lt;/span&gt;&lt;/p&gt;
@@ -127,23 +127,23 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>people</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>knitting</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;keriseron:ni  -  I am knitting socks.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>North America</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;Onkwehonwè:ke/Onkwehonwè:ne - Place of the Native people&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -155,64 +155,64 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>land</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>Turtle Island</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #eff1f3; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;A’nowere:ke&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>Mother Earth</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;Iethinisténha Ohwentsiate  &lt;a href=&quot;@@PLUGINFILE@@/earth.mp3&quot;&gt;earth.mp3&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>thanksgiving address</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>language</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: arial, helvetica, sans-serif; font-size: small; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;kawennontáhkon     the language that was used.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>precious</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;saia&#039;tanó:ron  - You are precious&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>spouse</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;aktsikhé:ta   -  my honey, sweetie&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>help translate</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;Oh ni:ioht ahsiron ne &amp;lt;english word / phrase here&amp;gt;?   - What is Kanien’kéha way to say &amp;lt; english word &amp;gt; ?&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -221,9 +221,9 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>games</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;&lt;strong&gt;Tenenha&lt;/strong&gt;   - seed game&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;&lt;strong&gt;Atenénha&lt;/strong&gt;  - seeds game&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -242,36 +242,36 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>clans</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;Wakskaré:wake  - I am Wolf clan.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>mullen</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #eff1f3; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;tsawenhsa’kó:wa&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>red raspberry</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;skanekwen&#039;tará:non&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>mullein</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;karí:se&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;Kén:reks aotáhson&lt;/span&gt;&lt;/p&gt;
@@ -280,23 +280,23 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>plant</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>stinging nettle</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;teiotokerón:te&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>nettle</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;Iakohehseráhstha&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;&lt;span&gt;Óhrhes&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
@@ -304,14 +304,14 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>plant</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>group</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;kanenratiron  -  holding up the troop / group.&lt;/p&gt;
 &lt;p&gt;raotitiohkwa - their group / their band of people&lt;/p&gt;
@@ -324,7 +324,7 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>hold</NAME>
@@ -336,17 +336,17 @@
             <NAME>troup̱e</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>pass</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;sha&#039;katóhetste   - when I passed by&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>drive</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;Wakatorihakie   -  I was driving by&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;shon takatohetste  - ???&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -357,9 +357,9 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>teacher</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;You are the best teachers(2):&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -370,9 +370,9 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>teach</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;You taught me (2 of you). tekenirihonnyenni &lt;/p&gt;
 &lt;p&gt;They teach her (or them).  shakotirihonnién:ni&lt;/p&gt;
@@ -382,9 +382,9 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>eyes</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;Eyes    &lt;span&gt;okà:ra&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;It has nice eyes    &lt;span&gt;tekakahrí:io’s&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -399,9 +399,9 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>burp</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: small; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;tekenia&#039;kwané:kare/wa&#039;tkenia&#039;kwané:kare&#039;   - I burp&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: small; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;taionhniatanekare  ???&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
@@ -409,18 +409,18 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>cough</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;kahshà:kha/wa&#039;kahsà:kha&#039;we&#039;  - I cough&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>fart</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: small; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;Kani&#039;té:nis/Wa&#039;kani&#039;té:ni&#039;  - I fart.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;kani’ténie’s  - I fart once&lt;/span&gt;&lt;/p&gt;
@@ -430,27 +430,27 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>pee</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;Kanihstiá:ke&#039;s/wa&#039;kanihstiá:ke&#039;  - I pee.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>poop</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;Kaní&#039;taiens/wa&#039;kaní&#039;taien&#039;  - I poop.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>sneeze</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: small; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;Tehotson&#039;kánions/wa&#039;tho&#039;tsón&#039;ke (Í:&#039;i pronoun?)&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -460,27 +460,27 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>diaper</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;&quot;&gt;sathwahwen&#039;ékstha  - your diaper&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>evening star</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;&lt;span style=&quot;color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #eff1f3; float: none;&quot;&gt;O&#039;karahsnéha otsísto&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
-      </ENTRY>
-      <ENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
+      </ITEM>
+      <ITEM>
         <CONCEPT>see</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;as one sees                  a’ionhtkathóh:se’ke &lt;/p&gt;
 &lt;p&gt;to watch over               a’iontennikonhráhren&lt;/p&gt;
@@ -491,42 +491,42 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>most used english</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>pink</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;wahsén:rate&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>color</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>red</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;onekwénhtara&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>color</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>orange</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;color: atiarèn:ta&lt;/p&gt;
 &lt;p&gt;tree/ fruit: &lt;span&gt;Otsì:nekwar niwahiò:ten&lt;/span&gt;&lt;/p&gt;</DEFINITION>
@@ -534,7 +534,7 @@
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>color</NAME>
@@ -549,77 +549,77 @@
             <NAME>tree</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>yellow</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;otsi:nekwar&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>color</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>green</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;óhonte&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>color</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>blue</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;oròn:ia&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>color</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>brown</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;athéhsa&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>color</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
-      <ENTRY>
+      </ITEM>
+      <ITEM>
         <CONCEPT>purple</CONCEPT><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/><media:thumbnail url="http://monigarr.com/wp-content/uploads/artwork.png" width="70" height="70"/>
         <DEFINITION>&lt;p&gt;arihwawa’konhnéha&lt;/p&gt;</DEFINITION>
         <FORMAT>1</FORMAT>
         <USEDYNALINK>0</USEDYNALINK>
         <CASESENSITIVE>0</CASESENSITIVE>
         <FULLMATCH>0</FULLMATCH>
-        <TEACHERENTRY>1</TEACHERENTRY>
+        <TEACHERITEM>1</TEACHERITEM>
         <ALIASES>
           <ALIAS>
             <NAME>color</NAME>
           </ALIAS>
         </ALIASES>
-      </ENTRY>
+      </ITEM>
     </ENTRIES>
   </INFO>
 </GLOSSARY>
