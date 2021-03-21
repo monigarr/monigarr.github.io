@@ -11,22 +11,18 @@
   </head>
 
   <body style="margin: 0; overflow: hidden;">
-
     <a-scene
       vr-mode-ui="enabled: false"
       embedded
       arjs="sourceType: webcam; videoTexture: true; debugUIEnabled: false;"
     >
-
       <a-text
         value="She:kon :)"
         look-at="[gps-camera]"
-        scale="20 20 20"
+        scale="90 90 90"
         gps-entity-place="latitude: 45.013376; longitude: -74.682260;"
       ></a-text>
-
-<a-box color="red" gps-projected-entity-place="latitude: 45.013450; longitude: -74.682260;" position="0 30 0"/>
-
+<a-box color="yellow" gps-projected-entity-place="latitude: 45.013450; longitude: -74.682260;" position="0 30 0"/>
       <a-camera id='camera1' look-controls-enabled='false' arjs-look-controls='smoothingFactor: 0.1' gps-camera='gpsMinDistance: 5' rotation-reader> </a-camera>
 
     </a-scene>
