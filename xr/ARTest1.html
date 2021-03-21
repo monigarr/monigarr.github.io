@@ -7,6 +7,8 @@
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
     <script src="https://unpkg.com/aframe-look-at-component@0.8.0/dist/aframe-look-at-component.min.js"></script>
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
+    <!-- Import the component -->
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
   </head>
 
   <body style="margin: 0; overflow: hidden;">
@@ -26,15 +28,9 @@
 
 <a-box color="red" gps-projected-entity-place="latitude: 45.013450; longitude: -74.682260 position="0 30 0"/>
 
-<a-marker preset="hiro">
-        <a-entity
-          position="0 0 0"
-          scale="0.05 0.05 0.05"
-          gltf-model="https://sketchfab.com/models/8346257f6cd24c759a7895f929970a85/embed"
-        ></a-entity>
-      </a-marker>
 
-
+<!-- Use it like any other HTML element -->
+<model-viewer src="https://sketchfab.com/models/8346257f6cd24c759a7895f929970a85/embed" alt="A 3D Ax by MoniGarr.com" auto-rotate camera-controls></model-viewer>
 
       <a-camera id='camera1' look-controls-enabled='false' arjs-look-controls='smoothingFactor: 0.1' gps-camera='gpsMinDistance: 5' rotation-reader> </a-camera>
 
