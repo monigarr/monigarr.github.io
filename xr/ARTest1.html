@@ -14,7 +14,7 @@
     <a-scene
       vr-mode-ui="enabled: false"
       embedded
-      arjs="sourceType: webcam; debugUIEnabled: false;"
+      arjs="sourceType: webcam; videoTexture: true; debugUIEnabled: false;"
     >
 
       <a-text
@@ -24,13 +24,20 @@
         gps-entity-place="latitude: 45.013376; longitude: -74.682260;"
       ></a-text>
 
-<a-box color="yellow" gps-projected-entity-place="latitude: 45.013389; longitude: -74.682260
+<a-box color="red" gps-projected-entity-place="latitude: 45.013450; longitude: -74.682260 position="0 30 0"/>
 
-<a-box color="yellow" gps-projected-entity-place="latitude: 45.013450; longitude: -74.682260position="0 30 0"/>
+<a-marker preset="hiro">
+        <a-entity
+          position="0 0 0"
+          scale="0.05 0.05 0.05"
+          gltf-model="https://sketchfab.com/models/8346257f6cd24c759a7895f929970a85/embed"
+        ></a-entity>
+      </a-marker>
 
 
 
-      <a-camera gps-camera rotation-reader> </a-camera>
+      <a-camera id='camera1' look-controls-enabled='false' arjs-look-controls='smoothingFactor: 0.1' gps-camera='gpsMinDistance: 5' rotation-reader> </a-camera>
+
     </a-scene>
   </body>
 </html>
